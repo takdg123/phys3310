@@ -1,0 +1,36 @@
+{
+  "PHYS3310/lecture_10/lecture10.tar.gz": [
+    {
+      "name": "lecture_10_functions.ipynb",
+      "path": "PHYS3310/lecture_10/lecture_10_functions.ipynb"
+    }
+  ],
+  "PHYS3310/lecture_6/lecture6.tar.gz": [
+    {
+      "name": "lecture_6_types.ipynb",
+      "path": "PHYS3310/lecture_6/lecture_6_types.ipynb"
+    }
+  ],
+  "PHYS3310/lecture_7/lecture7.tar.gz": [
+    {
+      "name": "lecture_7_conditions.ipynb",
+      "path": "PHYS3310/lecture_7/lecture_7_conditions.ipynb"
+    }
+  ],
+  "PHYS3310/lecture_8/lecture8.tar.gz": [
+    {
+      "name": "lecture_8_practice.ipynb",
+      "path": "PHYS3310/lecture_8/lecture_8_practice.ipynb"
+    },
+    {
+      "name": "lecture_8_practice_ko.ipynb",
+      "path": "PHYS3310/lecture_8/lecture_8_practice_ko.ipynb"
+    }
+  ],
+  "PHYS3310/lecture_9/lecture9.tar.gz": [
+    {
+      "name": "lecture_9_loops.ipynb",
+      "path": "PHYS3310/lecture_9/lecture_9_loops.ipynb"
+    }
+  ]
+}
